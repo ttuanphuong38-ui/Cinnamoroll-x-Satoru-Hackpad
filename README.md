@@ -21,6 +21,8 @@ This is my first hardware project and my first macropad. The intent was to make 
 
 ![Case view](ASSETS/case.jpg)
 
+**Video demo:** [https://youtu.be/PxSoy77RK3k](https://youtu.be/PxSoy77RK3k)
+
 ## Source and Reference
 - https://hackpad.hackclub.com/
 - https://wiki.seeedstudio.com/XIAO-RP2040/
