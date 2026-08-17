@@ -11,15 +11,15 @@ This is my first hardware project and my first macropad. The intent was to make 
 - 4x M3 Screws
 
 ## Schematic
-![Schematic](ASSETS/schematic.png)
+![Schematic](ASSETS/schematic.jpg)
 
 ## PCB
-![PCB](ASSETS/pcb.png)
+![PCB](ASSETS/pcb.jpg)
 
 ## Case
 - **Onshape Design Link:** [Click here to view 3D Model](https://cad.onshape.com/documents/b921f1c5d64ee8a8ffecabd9/w/165d38f25561d370d67a0145/e/40be511a874d06610ecdcc83?renderMode=0&uiState=6a82b7377af9117db155d383)
 
-![Case view](ASSETS/case.png)
+![Case view](ASSETS/case.jpg)
 
 ## Source and Reference
 - https://hackpad.hackclub.com/
